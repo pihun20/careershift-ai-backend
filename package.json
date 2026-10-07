@@ -1,0 +1,17 @@
+{
+  "name": "careershift-ai-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mammoth": "^1.9.0",
+    "multer": "^2.0.2",
+    "openai": "^6.16.0",
+    "pdf-parse": "^2.4.5"
+  }
+}
